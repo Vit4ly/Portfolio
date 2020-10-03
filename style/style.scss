@@ -20,7 +20,7 @@ $monserat: "Montserrat", sans-serif;
 
 html, body {
   height: 100%;
-  font-family: $long;
+  font-family: $lato;
   color: $darken-1;
   //background: $lighten-5;
   background: url("../assets/white-scratone.png");
@@ -80,6 +80,7 @@ html, body {
   }
 
   &__logo {
+    font-family: $long;
     display: flex;
     align-items: center;
     //flex: 0 0 60px;
@@ -609,7 +610,6 @@ html, body {
         span {
 
           font-weight: 700;
-          font-size: 1.6vw;
 
         }
 
@@ -638,11 +638,6 @@ html, body {
 
         }
         p {
-          span {
-
-            font-size: 4.3478260869565215vw;
-
-          }
 
           font-size: 3vw;
 
@@ -683,8 +678,7 @@ html, body {
         p {
           span {
 
-            font-weight: 700;
-            font-size: 1.6vw;
+            //font-weight: 400;
 
           }
 
@@ -803,13 +797,9 @@ html, body {
         }
         .styleCol {
           p {
-            span {
-
-              font-size: 3vw;
-            }
 
             font-size: 3vw;
-            line-height: 2.8vw;
+            line-height: 3vw;
 
           }
         }
@@ -860,7 +850,6 @@ html, body {
 
         &_1 {
 
-          border-radius: 2vw;
           grid-area: col1;
 
         }
@@ -940,7 +929,7 @@ html, body {
 
           &_title {
 
-            font-size: 4vw;
+            font-size: 3vw;
             font-weight: 700;
             color: #000;
             position: absolute;

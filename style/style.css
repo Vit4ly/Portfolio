@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------*/
 html, body {
   height: 100%;
-  font-family: "Long Cang", cursive;
+  font-family: "Lato", sans-serif;
   color: #546e7a;
   background: url("../assets/white-scratone.png");
 }
@@ -130,6 +130,7 @@ html, body {
   align-items: center;
 }
 .header__logo {
+  font-family: "Long Cang", cursive;
   display: flex;
   align-items: center;
   font-size: 3vw;
@@ -498,7 +499,6 @@ html, body {
 }
 .wrapper .main .hello p span {
   font-weight: 700;
-  font-size: 1.6vw;
 }
 @media (max-width: 768px) {
   .wrapper .main .hello__inner {
@@ -512,9 +512,6 @@ html, body {
   }
   .wrapper .main .hello p {
     font-size: 3vw;
-  }
-  .wrapper .main .hello p span {
-    font-size: 4.347826087vw;
   }
 }
 .wrapper .main .skills {
@@ -538,10 +535,6 @@ html, body {
   padding: 2vw;
   line-height: 2vw;
   color: #455a64;
-}
-.wrapper .main .skills .styleCol p span {
-  font-weight: 700;
-  font-size: 1.6vw;
 }
 .wrapper .main .skills__item {
   margin: 4% 0 4% 2%;
@@ -594,10 +587,7 @@ html, body {
   }
   .wrapper .main .skills .styleCol p {
     font-size: 3vw;
-    line-height: 2.8vw;
-  }
-  .wrapper .main .skills .styleCol p span {
-    font-size: 3vw;
+    line-height: 3vw;
   }
 }
 .wrapper .main .portfolio {
@@ -626,7 +616,6 @@ html, body {
   box-shadow: 4px 4px 5px 0 rgba(0, 0, 0, 0.55);
 }
 .wrapper .main .portfolio__col_1 {
-  border-radius: 2vw;
   grid-area: col1;
 }
 .wrapper .main .portfolio__col_2 {
@@ -673,7 +662,7 @@ html, body {
   transition: 0.3s;
 }
 .wrapper .main .portfolio__col_display_title {
-  font-size: 4vw;
+  font-size: 3vw;
   font-weight: 700;
   color: #000;
   position: absolute;
