@@ -1,62 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8019cc99-53a4-4c28-8b79-64d0102e4def" name="Default Changelist" comment="First Portfolio">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/portfolio-third.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/2018-10-04 14.47.07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/B53D20F2-558B-44E1-9B5F-8D46D09CFC5B.JPEG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bwfin.JPEG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cv.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/stack-overflow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/392-3922412_html-css-logo-png-clipart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/EsLint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/IMG_4150.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/Vue2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/Web&amp;Vs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/avocode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/avocode2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/figma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/git.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/git2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/html-css-knigi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/js2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/js5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/man.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/npm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/ps.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/sass2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/scss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/webpack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/logo/Без названия.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/JSBulder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/TodoSimple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/Yebo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/svz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/white-scratone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/nullstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/nullstyle.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/nullstyle.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/style.scss" afterDir="false" />
-    </list>
+    <list default="true" id="8019cc99-53a4-4c28-8b79-64d0102e4def" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,8 +55,16 @@
       <workItem from="1601654145536" duration="1533000" />
       <workItem from="1601655872527" duration="13800000" />
       <workItem from="1601704110252" duration="27210000" />
-      <workItem from="1601745222390" duration="914000" />
+      <workItem from="1601745222390" duration="1609000" />
     </task>
+    <task id="LOCAL-00001" summary="First Portfolio">
+      <created>1601746172880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601746172880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,18 +79,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="986" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601404487714" />
-    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2" timestamp="1601746063462">
+    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2" timestamp="1601746170990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601746063462" />
+    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601746170990" />
     <state x="1140" y="307" key="EditFileWatcherDialog" timestamp="1599230975174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1140" y="307" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599230975174" />
-    <state x="1045" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601746048930">
+    <state x="1045" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601746198853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1045" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601746048930" />
+    <state x="1045" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601746198853" />
     <state x="1109" y="242" key="run.anything.popup" timestamp="1601660322882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
