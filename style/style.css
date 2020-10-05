@@ -626,6 +626,9 @@ html, body {
   border-radius: 2vw;
   box-shadow: 4px 4px 5px 0 rgba(0, 0, 0, 0.55);
 }
+.wrapper .main .portfolio__col_card {
+  position: relative;
+}
 .wrapper .main .portfolio__col_1 {
   grid-area: col1;
 }

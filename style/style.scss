@@ -858,6 +858,10 @@ html, body {
 
         }
 
+        &_card{
+          position: relative;
+        }
+
         &_1 {
 
           grid-area: col1;
