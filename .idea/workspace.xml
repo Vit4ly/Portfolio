@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8019cc99-53a4-4c28-8b79-64d0102e4def" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/portfolio/form.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -21,11 +22,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1h399aY92w1R22hGGwGR0uUzAEk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -62,7 +67,8 @@
       <workItem from="1601751210757" duration="4382000" />
       <workItem from="1601794631243" duration="2645000" />
       <workItem from="1601912608665" duration="6090000" />
-      <workItem from="1603222453492" duration="1210000" />
+      <workItem from="1603222453492" duration="1940000" />
+      <workItem from="1609832112336" duration="1235000" />
     </task>
     <task id="LOCAL-00001" summary="First Portfolio">
       <created>1601746172880</created>
@@ -106,13 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601918756005</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix2">
+      <created>1603223850780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603223850780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First Portfolio" />
     <MESSAGE value="change FF" />
     <MESSAGE value="fix" />
@@ -125,10 +139,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="986" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601404487714" />
-    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2" timestamp="1601918754738">
+    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2" timestamp="1603223848443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601918754738" />
+    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603223848443" />
     <state x="1140" y="307" key="EditFileWatcherDialog" timestamp="1599230975174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -141,10 +155,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1331" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601747280365" />
-    <state x="1045" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601918759356">
+    <state x="1045" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603223883897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1045" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601918759356" />
+    <state x="1045" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603223883897" />
     <state x="1109" y="242" key="run.anything.popup" timestamp="1601660322882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
