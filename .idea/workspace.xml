@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8019cc99-53a4-4c28-8b79-64d0102e4def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio/Screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/portfolio/TodoJS.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -68,7 +69,8 @@
       <workItem from="1601794631243" duration="2645000" />
       <workItem from="1601912608665" duration="6090000" />
       <workItem from="1603222453492" duration="1940000" />
-      <workItem from="1609832112336" duration="1235000" />
+      <workItem from="1609832112336" duration="2108000" />
+      <workItem from="1613237215609" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="First Portfolio">
       <created>1601746172880</created>
@@ -119,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603223850780</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="добавил форму регистрации">
+      <created>1609833625774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609833625774</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,36 +141,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="fix1" />
     <MESSAGE value="fix2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix2" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="986" y="198" key="#Inspections" timestamp="1601404487714">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="986" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1601404487714" />
-    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2" timestamp="1603223848443">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="997" y="116" width="910" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603223848443" />
-    <state x="1140" y="307" key="EditFileWatcherDialog" timestamp="1599230975174">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1140" y="307" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599230975174" />
-    <state x="1233" y="261" key="FileChooserDialogImpl" timestamp="1601747380516">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1233" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601747380516" />
-    <state x="1331" y="418" key="Github.ShareDialog" timestamp="1601747280365">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1331" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601747280365" />
-    <state x="1045" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603223883897">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1045" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603223883897" />
-    <state x="1109" y="242" key="run.anything.popup" timestamp="1601660322882">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1109" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601660322882" />
+    <MESSAGE value="добавил форму регистрации" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил форму регистрации" />
   </component>
 </project>
