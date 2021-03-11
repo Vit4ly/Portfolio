@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8019cc99-53a4-4c28-8b79-64d0102e4def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/Screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/portfolio/TodoJS.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -70,7 +68,8 @@
       <workItem from="1601912608665" duration="6090000" />
       <workItem from="1603222453492" duration="1940000" />
       <workItem from="1609832112336" duration="2108000" />
-      <workItem from="1613237215609" duration="839000" />
+      <workItem from="1613237215609" duration="986000" />
+      <workItem from="1615494308332" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="First Portfolio">
       <created>1601746172880</created>
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609833625774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Обновил Todo">
+      <created>1613238121940</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613238121940</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +148,7 @@
     <MESSAGE value="fix1" />
     <MESSAGE value="fix2" />
     <MESSAGE value="добавил форму регистрации" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил форму регистрации" />
+    <MESSAGE value="Обновил Todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил Todo" />
   </component>
 </project>
