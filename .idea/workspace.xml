@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8019cc99-53a4-4c28-8b79-64d0102e4def" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/portfolio/DataBaseVue3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -69,7 +70,8 @@
       <workItem from="1603222453492" duration="1940000" />
       <workItem from="1609832112336" duration="2108000" />
       <workItem from="1613237215609" duration="986000" />
-      <workItem from="1615494308332" duration="311000" />
+      <workItem from="1615494308332" duration="544000" />
+      <workItem from="1616618789226" duration="665000" />
     </task>
     <task id="LOCAL-00001" summary="First Portfolio">
       <created>1601746172880</created>
@@ -134,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613238121940</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Добавил проект Resume Vue 3">
+      <created>1615494831348</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615494831348</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +158,7 @@
     <MESSAGE value="fix2" />
     <MESSAGE value="добавил форму регистрации" />
     <MESSAGE value="Обновил Todo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил Todo" />
+    <MESSAGE value="Добавил проект Resume Vue 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил проект Resume Vue 3" />
   </component>
 </project>
